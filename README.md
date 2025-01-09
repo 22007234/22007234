@@ -1,6 +1,8 @@
-## Hi there 👋
+## Ekse Hallows, Urangani Here 👋
 
-What is started is better than what has never 
+### All you need to know is:
+
+What's is started is better than what has never
 
 ### 🧰 Languages and Tools
 
